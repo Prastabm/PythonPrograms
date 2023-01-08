@@ -8,3 +8,5 @@
 6.Program that allows to add,remove or display the names of their favourite movie or books<br />
 7. Program to generate random password for the user<br />
 
+## Intermediate Programs
+1.
